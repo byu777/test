@@ -18,7 +18,7 @@ namespace WebApplication1.Controllers
         // GET api/values?studentName=XXXX
         public string Get(string studentName)
         {
-            return "Hello " + studentName;
+            return "Hello there " + studentName;
         }
 
         // POST api/values
