@@ -5,6 +5,7 @@ Tasks required,Set up database,,Mary Change,,,Mary Change2,,,Mary Change 3,,Mary
 ,Set up Webapi,,,,,,,,,,
 ,Design page layout,,,,,,,,MC 5,,
 ,Research / use boostrap for different device configurations,,,,,,,,,,
+<<<<<<< HEAD
 ,Deploy on actual mobile phone,,Ben,,,Ben2,,,Ben3,,
 ,Explore Ajax,,,,,,,,,,
 ,,,,,,,,,,,
@@ -12,6 +13,15 @@ Tasks required,Set up database,,Mary Change,,,Mary Change2,,,Mary Change 3,,Mary
 Day,08-Dec-18,,,,,,,,,,
 ,,,,,,,,,,,
 Name,Ben,,,,,Master!!,,,,,
+=======
+,Deploy on actual mobile phone,,Ben,,,,,,,,
+,Explore Ajax,,,,,,,,,,
+,,,,,,,,,Ben 5,,
+,,,Dick,,,,,,,,
+Day,08-Dec-18,,,,,,,,,,
+,,,,,,,,,,,
+Name,Ben,,,,,,,,,,
+>>>>>>> 9d5ebd57ece68edbff561f54b8f9f1948f258641
 What have I done yesterday?,Prepared for First class,,,,,,,,,,
 What am I doing today?,"Present problem to class, demo key technology components",,,,,,,,,,
 What obstacle am I facing?,"Not having enough time to complete tasks, students did not remember their git id",,,,,,,,,,
