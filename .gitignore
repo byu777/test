@@ -23,6 +23,7 @@
 [Dd]ebug*/
 *.lib
 *.sbr
+db.lock
 Thumbs.db
 [Ll]ib/
 [Rr]elease*/
@@ -31,3 +32,4 @@ _UpgradeReport_Files/
 _ReSharper.*/
 [Bb]in/
 [Oo]bj/
+.vs/
