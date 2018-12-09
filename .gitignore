@@ -23,6 +23,7 @@
 [Dd]ebug*/
 *.lib
 *.sbr
+db.lock
 Thumbs.db
 [Ll]ib/
 [Rr]elease*/
